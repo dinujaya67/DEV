@@ -1,0 +1,15 @@
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.dll
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.pdb
+C:\Users\Dinuj\OneDrive\DEV\C#\bin\Debug\net7.0\C#.exe
+C:\Users\Dinuj\OneDrive\DEV\C#\bin\Debug\net7.0\C#.deps.json
+C:\Users\Dinuj\OneDrive\DEV\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Users\Dinuj\OneDrive\DEV\C#\bin\Debug\net7.0\C#.dll
+C:\Users\Dinuj\OneDrive\DEV\C#\bin\Debug\net7.0\C#.pdb
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Users\Dinuj\OneDrive\DEV\C#\obj\Debug\net7.0\ref\C#.dll
